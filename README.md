@@ -21,7 +21,7 @@ A custom Python-based overlay built on secure chat technology. Stay fully focuse
 - **🔗 Instant Link Sharing:** Click the header to copy your invite link.
 - **⚡ High Performance:** FPS-friendly Dark Mode designed for minimal impact.
 - **🌍 Multi-Language:** Quickly toggle between **English** and **German** directly in the app.
-- **🔔 Show / hide overlay:** Press CTRL + ALT + C to show or hide Chatify.
+- **🔔 Show / hide overlay:** Choose Your own Hotkey to show or hide Chatify.
 ---
 
 ## ❓ Why use Chatify?
