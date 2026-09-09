@@ -10,7 +10,7 @@ It runs as a lightweight overlay directly on top of your game window, so you nev
 
 A custom Python-based overlay built on secure chat technology. Stay fully focused on your heist, race, or roleplay session without distractions.
 
-![Chatify Preview](https://img.itch.zone/aW1nLzI1MDc3OTcxLnBuZw==/original/sm2ZSc.png)
+![Chatify Preview](https://img.itch.zone/aW1hZ2UvNDIwNTg3OC8yOTg4MTkyNC5wbmc=/347x500/9AdnA8.png)
 
 ---
 
