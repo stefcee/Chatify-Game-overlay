@@ -34,7 +34,7 @@ Unlike in-game chats, Chatify is fully **private, unmoderated, and invisible** t
 
 Get the latest version directly from our Discord:
 
-[![Discord Download](https://img.shields.io/badge/Download_on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1420497561151733900/1461885714609475700)
+[![Discord Download](https://img.shields.io/badge/Download_on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://chatify-overlay.netlify.app/)
 
 *(Click the button to go to the download channel)*
 
